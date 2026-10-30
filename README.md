@@ -1,7 +1,7 @@
 # IE-1-Teamshare
 Working teamshare mode on melonDS emulator PC only for IE 1 on NDS only
 
-Program działa na zasadzie udostępniania plików .sav z emulatora MelonDS gry z przygotowaną drużyną w teamshare mode innym osobą dzięki temu jest możliwość rozegrania meczu z drużyną innego gracza offline
+The programme works by sharing .sav files from the MelonDS emulator – containing a pre-set team – with another person via ‘teamshare’ mode, making it possible to play an offline match against another player’s team.
 
 Tutorial how to use
 If you want to share your team with others
